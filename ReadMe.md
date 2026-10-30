@@ -1,5 +1,24 @@
-# 💫 About Me:
-### 🔭 I'm currently working on<br>- **DawaiSathi** — A medication management and reminder application focused on making healthcare routines easier for individuals, elderly users, and caregivers.<br>- **StockPilot AI** — An AI-assisted inventory management system with multi-warehouse stock tracking, demand forecasting, replenishment recommendations, and AWS Bedrock integration.<br>- **Student Performance Predictor** — A machine learning application for predicting academic performance, with plans for interactive dashboards, visualizations, and personalized improvement suggestions.<br>- **Conversational AI** — Exploring fine-tuning Qwen2.5 to build an AI assistant that understands real-life problems and communicates naturally, including Indian conversational styles.<br><br>### 👯 I'm looking to collaborate on<br>- Open-source AI/ML and generative AI projects.<br>- Python backend development using Flask and FastAPI.<br>- AI agents, conversational AI, LLM fine-tuning, and practical AI applications.<br>- Healthcare technology, automation, and intelligent SaaS products.<br><br>### 🤝 I'm looking for help with<br>- LLM fine-tuning, evaluation, and high-quality conversational datasets.<br>- Scaling AI-powered applications from prototypes into reliable products.<br>- Advanced machine learning, RAG, model deployment, and MLOps.<br>- Building useful AI products around real user needs.<br><br>### 🌱 I'm currently learning<br>- LLM fine-tuning with Qwen2.5, LoRA, and QLoRA.<br>- Conversational AI, dialogue datasets, and model evaluation.<br>- Advanced backend architecture, API design, and scalable databases.<br>- Cloud deployment, AWS, MLOps, and production AI engineering.<br>- Product development, user research, and business strategy.<br><br>### 💬 Ask me about<br>- Python, Flask, FastAPI, and REST APIs.<br>- SQLAlchemy, PostgreSQL, MySQL, and MongoDB.<br>- AWS EC2, Elastic Beanstalk, RDS, and Bedrock.<br>- JWT authentication, task management systems, and inventory management.<br>- Machine learning with scikit-learn and Streamlit.<br>- React Native, Expo, and real-world AI application development.<br><br>### ⚡ Fun fact<br>I enjoy building software that solves everyday problems, from managing medicines and predicting student performance to optimizing inventory. I'm equally interested in understanding how technology can become a real business. Outside coding, I'm into cars and figuring out how things work.
+### Hi there, I'm Surya Pratap Chaudhary 👋
+
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in backend development, generative AI, and building software that solves real-world problems.
+
+I enjoy working on projects that go beyond basic prototypes, focusing on reliable backend systems, practical AI integration, and applications people can actually use.
+
+- 🔭 **I'm currently working on:** [DawaiSathi](https://github.com/chaudharysuryapratap/DawaiSathi), a family-focused medicine management application, and improving my AI-powered projects.
+- 👯 **I'm looking to collaborate on:** Open-source AI/ML projects, intelligent SaaS applications, AI agents, and backend development.
+- 🤝 **I'm looking for help with:** LLM fine-tuning, conversational AI, scalable system architecture, and taking AI products from development to production.
+- 🌱 **I'm currently learning:** Generative AI, Qwen fine-tuning, LLM evaluation, advanced backend engineering, and cloud technologies.
+- 💬 **Ask me about:** Python, Flask, FastAPI, REST APIs, SQLAlchemy, PostgreSQL, AWS, machine learning, and integrating AI into real applications.
+- ⚡ **Fun fact:** I'm interested in both technology and entrepreneurship. I enjoy figuring out how things work, whether it's debugging an application, understanding a car's mechanics, or exploring a business idea.
+
+### 🚀 Some of my projects
+
+- **[StockPilot AI](https://github.com/chaudharysuryapratap/StockPilot-AI-Inventory-Management-Application)** — An AI-assisted inventory management platform with multi-warehouse operations, demand forecasting, and AWS Bedrock integration.
+- **[DawaiSathi](https://github.com/chaudharysuryapratap/DawaiSathi)** — A medication and family care tracking application built with React Native, FastAPI, and MongoDB.
+- **[Planora](https://github.com/chaudharysuryapratap/Planora---Task-Management-Application)** — A task management application with JWT authentication, REST APIs, and PostgreSQL.
+- **[Student Performance Predictor](https://github.com/chaudharysuryapratap/student-performance-predictor)** — A machine learning application that estimates academic performance through an interactive interface.
+
+**My goal:** To keep improving as an engineer, contribute to meaningful open-source projects, and eventually build technology products that create real value.
 
 
 ## 🌐 Socials:
